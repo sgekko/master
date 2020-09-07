@@ -1,0 +1,802 @@
+[
+  {
+    "id": 1,
+    "schoolName": "Tetratrex",
+    "state": "Iowa",
+    "county": "Orange",
+    "compliant": false,
+    "active": true
+  },
+  {
+    "id": 2,
+    "schoolName": "Visualix",
+    "state": "Wisconsin",
+    "county": "Orange",
+    "compliant": false,
+    "active": false
+  },
+  {
+    "id": 3,
+    "schoolName": "Bolax",
+    "state": "Maine",
+    "county": "Orange",
+    "compliant": false,
+    "active": false
+  },
+  {
+    "id": 4,
+    "schoolName": "Repetwire",
+    "state": "Montana",
+    "county": "Orange",
+    "compliant": true,
+    "active": false
+  },
+  {
+    "id": 5,
+    "schoolName": "Geekmosis",
+    "state": "Kansas",
+    "county": "Orange",
+    "compliant": true,
+    "active": false
+  },
+  {
+    "id": 6,
+    "schoolName": "Sulfax",
+    "state": "Louisiana",
+    "county": "Orange",
+    "compliant": false,
+    "active": false
+  },
+  {
+    "id": 7,
+    "schoolName": "Golistic",
+    "state": "Delaware",
+    "county": "Orange",
+    "compliant": false,
+    "active": true
+  },
+  {
+    "id": 8,
+    "schoolName": "Exodoc",
+    "state": "Nebraska",
+    "county": "Orange",
+    "compliant": false,
+    "active": false
+  },
+  {
+    "id": 9,
+    "schoolName": "Inrt",
+    "state": "Vermont",
+    "county": "Orange",
+    "compliant": false,
+    "active": false
+  },
+  {
+    "id": 10,
+    "schoolName": "Nitracyr",
+    "state": "New York",
+    "county": "Orange",
+    "compliant": false,
+    "active": true
+  },
+  {
+    "id": 11,
+    "schoolName": "Isotronic",
+    "state": "Maryland",
+    "county": "Orange",
+    "compliant": false,
+    "active": false
+  },
+  {
+    "id": 12,
+    "schoolName": "Zaggles",
+    "state": "Ohio",
+    "county": "Orange",
+    "compliant": true,
+    "active": false
+  },
+  {
+    "id": 13,
+    "schoolName": "Acusage",
+    "state": "Pennsylvania",
+    "county": "Orange",
+    "compliant": false,
+    "active": false
+  },
+  {
+    "id": 14,
+    "schoolName": "Insurety",
+    "state": "New Hampshire",
+    "county": "Orange",
+    "compliant": true,
+    "active": false
+  },
+  {
+    "id": 15,
+    "schoolName": "Zentry",
+    "state": "Virginia",
+    "county": "Orange",
+    "compliant": true,
+    "active": true
+  },
+  {
+    "id": 16,
+    "schoolName": "Tri@Tribalog",
+    "state": "Connecticut",
+    "county": "Orange",
+    "compliant": true,
+    "active": true
+  },
+  {
+    "id": 17,
+    "schoolName": "Keengen",
+    "state": "Mississippi",
+    "county": "Orange",
+    "compliant": false,
+    "active": true
+  },
+  {
+    "id": 18,
+    "schoolName": "Mantro",
+    "state": "Northern Mariana Islands",
+    "county": "Orange",
+    "compliant": true,
+    "active": false
+  },
+  {
+    "id": 19,
+    "schoolName": "Dreamia",
+    "state": "Alabama",
+    "county": "Orange",
+    "compliant": true,
+    "active": false
+  },
+  {
+    "id": 20,
+    "schoolName": "Zanity",
+    "state": "Massachusetts",
+    "county": "Orange",
+    "compliant": true,
+    "active": true
+  },
+  {
+    "id": 21,
+    "schoolName": "Daido",
+    "state": "Alaska",
+    "county": "Orange",
+    "compliant": false,
+    "active": true
+  },
+  {
+    "id": 22,
+    "schoolName": "Pivitol",
+    "state": "Oklahoma",
+    "county": "Orange",
+    "compliant": false,
+    "active": true
+  },
+  {
+    "id": 23,
+    "schoolName": "Earwax",
+    "state": "Texas",
+    "county": "Orange",
+    "compliant": false,
+    "active": false
+  },
+  {
+    "id": 24,
+    "schoolName": "Biflex",
+    "state": "South Carolina",
+    "county": "Orange",
+    "compliant": false,
+    "active": false
+  },
+  {
+    "id": 25,
+    "schoolName": "Phuel",
+    "state": "Idaho",
+    "county": "Orange",
+    "compliant": true,
+    "active": false
+  },
+  {
+    "id": 26,
+    "schoolName": "Teraprene",
+    "state": "North Dakota",
+    "county": "Orange",
+    "compliant": true,
+    "active": true
+  },
+  {
+    "id": 27,
+    "schoolName": "Biospan",
+    "state": "Marshall Islands",
+    "county": "Orange",
+    "compliant": true,
+    "active": false
+  },
+  {
+    "id": 28,
+    "schoolName": "Portaline",
+    "state": "Georgia",
+    "county": "Orange",
+    "compliant": true,
+    "active": true
+  },
+  {
+    "id": 29,
+    "schoolName": "Techmania",
+    "state": "Virgin Islands",
+    "county": "Orange",
+    "compliant": true,
+    "active": false
+  },
+  {
+    "id": 30,
+    "schoolName": "Navir",
+    "state": "Arizona",
+    "county": "Orange",
+    "compliant": false,
+    "active": false
+  },
+  {
+    "id": 31,
+    "schoolName": "Luxuria",
+    "state": "Nevada",
+    "county": "Orange",
+    "compliant": true,
+    "active": true
+  },
+  {
+    "id": 32,
+    "schoolName": "Digigene",
+    "state": "Puerto Rico",
+    "county": "Orange",
+    "compliant": false,
+    "active": false
+  },
+  {
+    "id": 33,
+    "schoolName": "Fanfare",
+    "state": "Illinois",
+    "county": "Orange",
+    "compliant": false,
+    "active": false
+  },
+  {
+    "id": 34,
+    "schoolName": "Comstruct",
+    "state": "Oregon",
+    "county": "Orange",
+    "compliant": false,
+    "active": true
+  },
+  {
+    "id": 35,
+    "schoolName": "Chillium",
+    "state": "Missouri",
+    "county": "Orange",
+    "compliant": false,
+    "active": true
+  },
+  {
+    "id": 36,
+    "schoolName": "Vinch",
+    "state": "Colorado",
+    "county": "Orange",
+    "compliant": true,
+    "active": false
+  },
+  {
+    "id": 37,
+    "schoolName": "Singavera",
+    "state": "Utah",
+    "county": "Orange",
+    "compliant": true,
+    "active": false
+  },
+  {
+    "id": 38,
+    "schoolName": "Exoswitch",
+    "state": "Palau",
+    "county": "Orange",
+    "compliant": false,
+    "active": true
+  },
+  {
+    "id": 39,
+    "schoolName": "Elemantra",
+    "state": "Minnesota",
+    "county": "Orange",
+    "compliant": true,
+    "active": true
+  },
+  {
+    "id": 40,
+    "schoolName": "Ronbert",
+    "state": "North Carolina",
+    "county": "Orange",
+    "compliant": true,
+    "active": false
+  },
+  {
+    "id": 41,
+    "schoolName": "Remold",
+    "state": "District Of Columbia",
+    "county": "Orange",
+    "compliant": true,
+    "active": true
+  },
+  {
+    "id": 42,
+    "schoolName": "Exiand",
+    "state": "Washington",
+    "county": "Orange",
+    "compliant": false,
+    "active": false
+  },
+  {
+    "id": 43,
+    "schoolName": "Entropix",
+    "state": "Arkansas",
+    "county": "Orange",
+    "compliant": false,
+    "active": false
+  },
+  {
+    "id": 44,
+    "schoolName": "Enervate",
+    "state": "New Mexico",
+    "county": "Orange",
+    "compliant": true,
+    "active": true
+  },
+  {
+    "id": 45,
+    "schoolName": "Techtrix",
+    "state": "Guam",
+    "county": "Orange",
+    "compliant": true,
+    "active": false
+  },
+  {
+    "id": 46,
+    "schoolName": "Quilm",
+    "state": "West Virginia",
+    "county": "Orange",
+    "compliant": true,
+    "active": false
+  },
+  {
+    "id": 47,
+    "schoolName": "Ezentia",
+    "state": "Florida",
+    "county": "Orange",
+    "compliant": true,
+    "active": false
+  },
+  {
+    "id": 48,
+    "schoolName": "Wazzu",
+    "state": "Hawaii",
+    "county": "Orange",
+    "compliant": true,
+    "active": true
+  },
+  {
+    "id": 49,
+    "schoolName": "Genekom",
+    "state": "Rhode Island",
+    "county": "Orange",
+    "compliant": false,
+    "active": false
+  },
+  {
+    "id": 50,
+    "schoolName": "Lunchpod",
+    "state": "Wyoming",
+    "county": "Orange",
+    "compliant": false,
+    "active": false
+  },
+  {
+    "id": 51,
+    "schoolName": "Flotonic",
+    "state": "Kentucky",
+    "county": "Orange",
+    "compliant": false,
+    "active": true
+  },
+  {
+    "id": 52,
+    "schoolName": "Cosmosis",
+    "state": "Federated States Of Micronesia",
+    "county": "Orange",
+    "compliant": false,
+    "active": false
+  },
+  {
+    "id": 53,
+    "schoolName": "Bicol",
+    "state": "Tennessee",
+    "county": "Orange",
+    "compliant": true,
+    "active": false
+  },
+  {
+    "id": 54,
+    "schoolName": "Accuprint",
+    "state": "California",
+    "county": "Orange",
+    "compliant": true,
+    "active": true
+  },
+  {
+    "id": 55,
+    "schoolName": "Zytrax",
+    "state": "South Dakota",
+    "county": "Orange",
+    "compliant": true,
+    "active": true
+  },
+  {
+    "id": 56,
+    "schoolName": "Virva",
+    "state": "Indiana",
+    "county": "Orange",
+    "compliant": false,
+    "active": true
+  },
+  {
+    "id": 57,
+    "schoolName": "Bittor",
+    "state": "American Samoa",
+    "county": "Orange",
+    "compliant": true,
+    "active": false
+  },
+  {
+    "id": 58,
+    "schoolName": "Buzzmaker",
+    "state": "New Jersey",
+    "county": "Orange",
+    "compliant": true,
+    "active": false
+  },
+  {
+    "id": 59,
+    "schoolName": "Visalia",
+    "state": "Iowa",
+    "county": "Orange",
+    "compliant": true,
+    "active": false
+  },
+  {
+    "id": 60,
+    "schoolName": "Digique",
+    "state": "Wisconsin",
+    "county": "Orange",
+    "compliant": false,
+    "active": true
+  },
+  {
+    "id": 61,
+    "schoolName": "Iplax",
+    "state": "Maine",
+    "county": "Orange",
+    "compliant": true,
+    "active": true
+  },
+  {
+    "id": 62,
+    "schoolName": "Zidant",
+    "state": "Montana",
+    "county": "Orange",
+    "compliant": true,
+    "active": false
+  },
+  {
+    "id": 63,
+    "schoolName": "Nutralab",
+    "state": "Kansas",
+    "county": "Orange",
+    "compliant": true,
+    "active": false
+  },
+  {
+    "id": 64,
+    "schoolName": "Signity",
+    "state": "Louisiana",
+    "county": "Orange",
+    "compliant": true,
+    "active": true
+  },
+  {
+    "id": 65,
+    "schoolName": "Malathion",
+    "state": "Delaware",
+    "county": "Orange",
+    "compliant": false,
+    "active": false
+  },
+  {
+    "id": 66,
+    "schoolName": "Lumbrex",
+    "state": "Nebraska",
+    "county": "Orange",
+    "compliant": false,
+    "active": true
+  },
+  {
+    "id": 67,
+    "schoolName": "Exostream",
+    "state": "Vermont",
+    "county": "Orange",
+    "compliant": true,
+    "active": true
+  },
+  {
+    "id": 68,
+    "schoolName": "Maxemia",
+    "state": "New York",
+    "county": "Orange",
+    "compliant": true,
+    "active": false
+  },
+  {
+    "id": 69,
+    "schoolName": "Imaginart",
+    "state": "Maryland",
+    "county": "Orange",
+    "compliant": false,
+    "active": true
+  },
+  {
+    "id": 70,
+    "schoolName": "Andershun",
+    "state": "Ohio",
+    "county": "Orange",
+    "compliant": false,
+    "active": false
+  },
+  {
+    "id": 71,
+    "schoolName": "Zinca",
+    "state": "Pennsylvania",
+    "county": "Orange",
+    "compliant": true,
+    "active": false
+  },
+  {
+    "id": 72,
+    "schoolName": "Zipak",
+    "state": "New Hampshire",
+    "county": "Orange",
+    "compliant": false,
+    "active": false
+  },
+  {
+    "id": 73,
+    "schoolName": "Magnina",
+    "state": "Virginia",
+    "county": "Orange",
+    "compliant": true,
+    "active": true
+  },
+  {
+    "id": 74,
+    "schoolName": "Amtas",
+    "state": "Connecticut",
+    "county": "Orange",
+    "compliant": true,
+    "active": false
+  },
+  {
+    "id": 75,
+    "schoolName": "Telepark",
+    "state": "Mississippi",
+    "county": "Orange",
+    "compliant": true,
+    "active": true
+  },
+  {
+    "id": 76,
+    "schoolName": "Apextri",
+    "state": "Northern Mariana Islands",
+    "county": "Orange",
+    "compliant": true,
+    "active": true
+  },
+  {
+    "id": 77,
+    "schoolName": "Renovize",
+    "state": "Alabama",
+    "county": "Orange",
+    "compliant": true,
+    "active": false
+  },
+  {
+    "id": 78,
+    "schoolName": "Emergent",
+    "state": "Massachusetts",
+    "county": "Orange",
+    "compliant": false,
+    "active": true
+  },
+  {
+    "id": 79,
+    "schoolName": "Terragen",
+    "state": "Alaska",
+    "county": "Orange",
+    "compliant": true,
+    "active": false
+  },
+  {
+    "id": 80,
+    "schoolName": "Micronaut",
+    "state": "Oklahoma",
+    "county": "Orange",
+    "compliant": true,
+    "active": false
+  },
+  {
+    "id": 81,
+    "schoolName": "Jasper",
+    "state": "Texas",
+    "county": "Orange",
+    "compliant": true,
+    "active": true
+  },
+  {
+    "id": 82,
+    "schoolName": "Exoteric",
+    "state": "South Carolina",
+    "county": "Orange",
+    "compliant": true,
+    "active": true
+  },
+  {
+    "id": 83,
+    "schoolName": "Ecratic",
+    "state": "Idaho",
+    "county": "Orange",
+    "compliant": true,
+    "active": true
+  },
+  {
+    "id": 84,
+    "schoolName": "Zanilla",
+    "state": "North Dakota",
+    "county": "Orange",
+    "compliant": true,
+    "active": true
+  },
+  {
+    "id": 85,
+    "schoolName": "Scenty",
+    "state": "Marshall Islands",
+    "county": "Orange",
+    "compliant": true,
+    "active": true
+  },
+  {
+    "id": 86,
+    "schoolName": "Zenthall",
+    "state": "Georgia",
+    "county": "Orange",
+    "compliant": false,
+    "active": false
+  },
+  {
+    "id": 87,
+    "schoolName": "Plasmos",
+    "state": "Virgin Islands",
+    "county": "Orange",
+    "compliant": false,
+    "active": true
+  },
+  {
+    "id": 88,
+    "schoolName": "Gronk",
+    "state": "Arizona",
+    "county": "Orange",
+    "compliant": false,
+    "active": false
+  },
+  {
+    "id": 89,
+    "schoolName": "Noralex",
+    "state": "Nevada",
+    "county": "Orange",
+    "compliant": false,
+    "active": true
+  },
+  {
+    "id": 90,
+    "schoolName": "Portico",
+    "state": "Puerto Rico",
+    "county": "Orange",
+    "compliant": false,
+    "active": true
+  },
+  {
+    "id": 91,
+    "schoolName": "Octocore",
+    "state": "Illinois",
+    "county": "Orange",
+    "compliant": false,
+    "active": true
+  },
+  {
+    "id": 92,
+    "schoolName": "Suremax",
+    "state": "Oregon",
+    "county": "Orange",
+    "compliant": false,
+    "active": true
+  },
+  {
+    "id": 93,
+    "schoolName": "Enquility",
+    "state": "Missouri",
+    "county": "Orange",
+    "compliant": true,
+    "active": false
+  },
+  {
+    "id": 94,
+    "schoolName": "Bytrex",
+    "state": "Colorado",
+    "county": "Orange",
+    "compliant": true,
+    "active": false
+  },
+  {
+    "id": 95,
+    "schoolName": "Geofarm",
+    "state": "Utah",
+    "county": "Orange",
+    "compliant": true,
+    "active": true
+  },
+  {
+    "id": 96,
+    "schoolName": "Ohmnet",
+    "state": "Palau",
+    "county": "Orange",
+    "compliant": false,
+    "active": false
+  },
+  {
+    "id": 97,
+    "schoolName": "Phormula",
+    "state": "Minnesota",
+    "county": "Orange",
+    "compliant": false,
+    "active": false
+  },
+  {
+    "id": 98,
+    "schoolName": "Neteria",
+    "state": "North Carolina",
+    "county": "Orange",
+    "compliant": false,
+    "active": true
+  },
+  {
+    "id": 99,
+    "schoolName": "Exotechno",
+    "state": "District Of Columbia",
+    "county": "Orange",
+    "compliant": false,
+    "active": false
+  },
+  {
+    "id": 100,
+    "schoolName": "Genesynk",
+    "state": "New Jersey",
+    "county": "Orange",
+    "compliant": true,
+    "active": false
+  }
+]
