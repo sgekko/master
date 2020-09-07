@@ -1,4 +1,5 @@
-[
+{
+"schools": [
   {
     "id": 1,
     "schoolName": "Tetratrex",
@@ -800,3 +801,4 @@
     "active": false
   }
 ]
+}
